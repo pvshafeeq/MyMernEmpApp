@@ -1,4 +1,4 @@
 {
     "mongoURI":
-      "mongodb+srv://blogadmin:HnTqmvNvm3iz2Mx5@cluster0.lehd23n.mongodb.net/?retryWrites=true&w=majority"
+      "mongodb+srv://blogadmin:4UdomgAGXX00rbFR@cluster0.lehd23n.mongodb.net/EmployeeDB?retryWrites=true&w=majority"
   }
